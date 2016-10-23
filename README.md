@@ -28,3 +28,5 @@ Further work:
 
 ![](image1.png)
 ![](image2.png)
+
+Part of the code was based on this Cloud Vision API usage sample webapp: https://demobuddy.firebaseapp.com/
