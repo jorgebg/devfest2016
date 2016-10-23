@@ -2,7 +2,7 @@
 
 This is the project I presented at devfest 2016 hackathon.
 
-It is a voting system that prevents the users to vote more than one time:
+It is a voting system that prevents the users from voting more than one time:
 
 1. A picture of the face of the user is taken at the moment of the vote
 2. Gets the face landmarks via Google Cloud Vision API
